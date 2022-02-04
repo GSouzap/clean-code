@@ -3,3 +3,5 @@ dist
 # Ignore test-related files
 /coverage.data
 /coverage/
+
+globalConfig.json
