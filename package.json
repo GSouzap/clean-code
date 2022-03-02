@@ -1,7 +1,7 @@
 {
   "name": "clean-node-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJs Rest API using TDD, Clean Architecture and Typescript",
   "main": "index.js",
   "scripts": {
     "start": "sucrase-node src/main/server.ts",
@@ -16,7 +16,7 @@
     "pre-push": "npm run test:ci"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gabriel de Souza Pinto",
   "license": "ISC",
   "devDependencies": {
     "@shelf/jest-mongodb": "^2.2.0",
